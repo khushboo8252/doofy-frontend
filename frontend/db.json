@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "name": "Laptop",
+      "description": "A high-performance laptop",
+      "price": 1500,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Headphones",
+      "description": "Noise-cancelling headphones",
+      "price": 200
+    },
+    {
+      "id": "ca35",
+      "name": "apple",
+      "description": "10 kg Apple",
+      "price": "100"
+    },
+    {
+      "id": "5fbf",
+      "name": "Wireless Mouse",
+      "description": "A high-precision wireless mouse with ergonomic design and long battery life.",
+      "price": "300"
+    },
+    {
+      "id": "ddf1",
+      "name": "LED Desk Lamp",
+      "description": "Adjustable LED desk lamp with touch control and different brightness levels.",
+      "price": "150"
+    }
+  ]
+}
